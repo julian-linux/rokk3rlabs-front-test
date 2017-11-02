@@ -1,0 +1,25 @@
+// $fa-font-path: "~font-awesome/fonts";
+// @import '~font-awesome/scss/font-awesome.scss';
+html,
+body {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #2f323a;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.main__content {
+    width: 66%;
+    float: left;
+    position: relative;
+}

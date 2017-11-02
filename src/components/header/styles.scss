@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    position: relative;
+    float: left;
+    & img {
+        width: 100px;
+        float: left;
+    }
+    &__left {
+        float: right;
+    }
+}
